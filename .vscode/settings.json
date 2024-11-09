@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./02-modulos/13-",
+        "./02-modulos/13-",
+        "./02-modulos/13-",
+        "./02-modulos/13-",
+        "./02-modulos/13-",
+        "./02-modulos/13-"
+    ]
+}
